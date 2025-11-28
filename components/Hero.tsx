@@ -2,10 +2,12 @@ import React, { useState, useRef, useEffect } from 'react';
 import { Play, Pause, Music, Heart } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { SAMPLE_AUDIO_URL } from '../constants';
+import { useTranslation } from 'react-i18next';
 
 const Hero: React.FC = () => {
   const [isPlaying, setIsPlaying] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const { t } = useTranslation();
 
   useEffect(() => {
     // Initialize audio object
@@ -56,26 +58,27 @@ const Hero: React.FC = () => {
           className="text-center md:text-left"
         >
           <span className="inline-block py-1 px-3 rounded-full bg-sand-200 text-terracotta-600 text-xs font-bold tracking-widest uppercase mb-6">
-            Classic Affirmations, Upgraded
+            {t('hero.badge')}
           </span>
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-serif text-stone-800 leading-tight mb-6">
-            Your affirmations, <br/>
-            <span className="text-terracotta-500 italic">finally stuck</span> in your head.
+            {t('hero.title')}
+            <br/>
+            <span className="text-terracotta-500 italic">{t('hero.highlight')}</span>
           </h1>
           <p className="text-lg md:text-xl text-stone-600 mb-8 max-w-lg mx-auto md:mx-0 font-light">
-            Affirmetry turns classic “I am” statements into science-backed musical earworms, so your favorite affirmations keep replaying in your mind all day—without extra effort.
+            {t('hero.description')}
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
             <button className="bg-terracotta-500 text-white px-8 py-4 rounded-full font-semibold hover:bg-terracotta-600 transition-all shadow-lg shadow-terracotta-200 hover:shadow-xl transform hover:-translate-y-1">
-              Start your free trial
+              {t('hero.primaryCta')}
             </button>
             <button 
               onClick={togglePlay}
               className="flex items-center justify-center gap-2 bg-white text-stone-700 border border-stone-200 px-8 py-4 rounded-full font-medium hover:bg-stone-50 transition-all"
             >
               {isPlaying ? <Pause className="w-4 h-4 fill-current" /> : <Play className="w-4 h-4 fill-current" />}
-              {isPlaying ? 'Pause sample' : 'Listen to sample'}
+              {isPlaying ? t('hero.pauseCta') : t('hero.listenCta')}
             </button>
           </div>
 
@@ -85,7 +88,7 @@ const Hero: React.FC = () => {
                  <img key={i} src={`https://picsum.photos/seed/user${i}/40/40`} className="w-8 h-8 rounded-full border-2 border-white" alt="User" />
                ))}
             </div>
-            <p>Loved by affirmation-addicted women worldwide</p>
+            <p>{t('hero.socialProof')}</p>
           </div>
         </motion.div>
 
@@ -101,8 +104,8 @@ const Hero: React.FC = () => {
             <div className="absolute inset-0 bg-stone-50 flex flex-col">
               {/* App Header */}
               <div className="p-6 pt-12">
-                 <div className="text-center text-stone-400 text-xs uppercase tracking-widest mb-1">Now Playing</div>
-                 <div className="text-center font-serif text-xl text-stone-800">Daily Self-Love</div>
+                 <div className="text-center text-stone-400 text-xs uppercase tracking-widest mb-1">{t('hero.nowPlaying')}</div>
+                 <div className="text-center font-serif text-xl text-stone-800">{t('hero.trackTitle')}</div>
               </div>
               
               {/* Album Art / Visualizer */}
@@ -110,8 +113,8 @@ const Hero: React.FC = () => {
                 <div className="absolute inset-0 bg-gradient-to-br from-lilac-100 to-sand-100 opacity-50" />
                 <div className={`w-48 h-48 rounded-full bg-gradient-to-tr from-terracotta-300 to-lilac-300 blur-xl opacity-60 ${isPlaying ? 'animate-pulse' : 'animate-pulse-slow'}`} />
                 <div className="relative z-10 text-center">
-                  <h3 className="font-serif text-2xl text-stone-800 mb-2">I am enough</h3>
-                  <p className="text-stone-500 text-sm">Exactly as I am</p>
+                  <h3 className="font-serif text-2xl text-stone-800 mb-2">{t('hero.trackLine1')}</h3>
+                  <p className="text-stone-500 text-sm">{t('hero.trackLine2')}</p>
                 </div>
               </div>
 
@@ -150,9 +153,9 @@ const Hero: React.FC = () => {
             </div>
             <div>
               <p className="text-xs font-bold text-stone-800">
-                {isPlaying ? "Tap to pause" : "Tap to hear Affirmetry"}
+                {isPlaying ? t('hero.floatingPause') : t('hero.floatingPlay')}
               </p>
-              <p className="text-[10px] text-stone-500">30s Preview • "I Am Worthy"</p>
+              <p className="text-[10px] text-stone-500">{t('hero.previewMeta')}</p>
             </div>
           </motion.div>
         </motion.div>

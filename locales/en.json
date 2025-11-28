@@ -1,0 +1,240 @@
+{
+  "locale": "en",
+  "navbar": {
+    "brand": "Affirmetry",
+    "howItWorks": "How it Works",
+    "science": "The Science",
+    "pricing": "Pricing",
+    "startTrial": "Start Free Trial"
+  },
+  "hero": {
+    "badge": "Classic Affirmations, Upgraded",
+    "title": "Your affirmations, finally stuck in your head.",
+    "highlight": "finally stuck",
+    "description": "Affirmetry turns classic “I am” statements into science-backed musical earworms, so your favorite affirmations keep replaying in your mind all day—without extra effort.",
+    "primaryCta": "Start your free trial",
+    "listenCta": "Listen to sample",
+    "pauseCta": "Pause sample",
+    "nowPlaying": "Now Playing",
+    "trackTitle": "Daily Self-Love",
+    "trackLine1": "I am enough",
+    "trackLine2": "Exactly as I am",
+    "progressLabel": "Encoding \"I am secure\"...",
+    "floatingPause": "Tap to pause",
+    "floatingPlay": "Tap to hear Affirmetry",
+    "previewMeta": "30s Preview • \"I Am Worthy\"",
+    "socialProof": "Loved by affirmation-addicted women worldwide"
+  },
+  "howItWorks": {
+    "sectionLabel": "How it Works",
+    "title": "3 steps from quote to earworm",
+    "steps": [
+      {
+        "title": "Pick your theme",
+        "description": "Choose themes like Self-Love, Money, or Anxiety. Similar to classic apps—but tuned for music."
+      },
+      {
+        "title": "Get your tracks",
+        "description": "Our system pairs powerful “I am” statements with melodies optimized for memorability."
+      },
+      {
+        "title": "Listen daily",
+        "description": "Play your tracks while getting ready. Repetition + melody strengthen new thought pathways."
+      }
+    ]
+  },
+  "problemSolution": {
+    "problemTitle": "If your affirmations fade by lunchtime, it’s not your fault.",
+    "problemIntro": "Classic apps send you beautiful lines like “I am worthy”. You feel better for a moment—until stress comes back. The problem isn’t the affirmation. It’s how your brain stores it.",
+    "problemCards": [
+      {
+        "title": "Scroll & Forget",
+        "description": "You read dozens of affirmations daily but can't remember one in a stressful moment. Text rarely makes it to long-term memory."
+      },
+      {
+        "title": "Generic & Disconnected",
+        "description": "Recycled lines look good on Instagram but don't feel personal enough to change deep beliefs about money or love."
+      },
+      {
+        "title": "All Vibe, No Science",
+        "description": "Without a mechanism for neuroplasticity, 'manifesting' feels like magic. You need a way to actually rewire the brain."
+      }
+    ],
+    "solutionLabel": "The Solution",
+    "solutionTitle": "Meet Affirmetry: The musical affirmation app.",
+    "solutionIntro": "Affirmetry takes the affirmations you already believe in—self-love, confidence, abundance—and delivers them through specially composed songs engineered to become earworms.",
+    "solutionBullets": [
+      {
+        "title": "Classic Content, New Format",
+        "description": "“I am” statements about love, money, body—now as catchy tracks."
+      },
+      {
+        "title": "The Earworm Effect",
+        "description": "Designed so phrases resurface in your mind while you shower or walk."
+      },
+      {
+        "title": "Science-backed, not “woo-woo”",
+        "description": "Built on neuroplasticity and Involuntary Musical Imagery (INMI)."
+      },
+      {
+        "title": "Effortless Practice",
+        "description": "No journaling, no long meditations. Just press play."
+      }
+    ],
+    "tagline": "\"Don’t just read affirmations. Install them.\""
+  },
+  "useCases": {
+    "title": "Use Affirmetry for the goals you care about most",
+    "description": "We mapped our libraries around the most popular affirmation themes in existing apps.",
+    "items": [
+      {
+        "title": "Self-Love & Worthiness",
+        "description": "Quiet the “not enough” voice with tracks that repeat “I am enough,” “I am worthy of love.”"
+      },
+      {
+        "title": "Anxiety & Overthinking",
+        "description": "Turn rumination into repetition of calm phrases. From “What if I fail?” to “I can handle what comes.”"
+      },
+      {
+        "title": "Money & Abundance",
+        "description": "Support a healthier money mindset with melodic lines like “I deserve to be well-paid.”"
+      },
+      {
+        "title": "Body & Confidence",
+        "description": "Move from body-shame loops to affirmations of appreciation, strength, and self-respect."
+      },
+      {
+        "title": "Love & Relationships",
+        "description": "Shift attachment and trust patterns with tracks focused on deserving healthy love."
+      },
+      {
+        "title": "Productivity & Success",
+        "description": "Use before big projects or exams to reinforce “I follow through,” “I create results.”"
+      }
+    ]
+  },
+  "science": {
+    "label": "The Science",
+    "title": "Not magic. Mechanics.",
+    "description": "Why singing your affirmations works better than just reading them. Our research shows that musical messages activate more of the brain and are remembered 3x better.",
+    "chartTitle": "Retention Rates of Information",
+    "chartNote": "Simplified representation of multi-modal learning efficacy.",
+    "bullets": [
+      {
+        "title": "Earworm Engine (INMI)",
+        "description": "Your brain naturally loops melodies. Affirmetry 'hijacks' this loop so instead of replaying worries, your brain replays 'I am capable'."
+      },
+      {
+        "title": "Whole-Brain Encoding",
+        "description": "Reading uses the left hemisphere. Music + Lyrics engage the whole brain, including emotional and motor centers, creating durable memories."
+      },
+      {
+        "title": "Female Stickiness Advantage",
+        "description": "Studies show women experience longer-lasting earworms. Musical affirmations are biologically optimized for our core audience."
+      }
+    ],
+    "cta": "See the full whitepaper",
+    "chartLabels": [
+      "Reading (Text)",
+      "Listening (Speech)",
+      "Affirmetry (Music + Emotion)"
+    ]
+  },
+  "testimonials": {
+    "title": "\"It didn’t feel like effort—but my self-talk changed.\"",
+    "items": [
+      {
+        "quote": "I used to open my affirmation app, read a few quotes, and forget them. With Affirmetry I actually catch myself singing ‘I am worthy’ under my breath.",
+        "name": "Sofia",
+        "age": "27"
+      },
+      {
+        "quote": "I love manifestation, but I also like science. Seeing how the earworm research works makes me trust this more than ‘just believe’ advice.",
+        "name": "Laura",
+        "age": "31"
+      },
+      {
+        "quote": "I play the money tracks while I get ready for work. A few weeks in, I noticed I negotiate more confidently. It’s like the lyrics rewrote how I talk to myself about money.",
+        "name": "Daniela",
+        "age": "34"
+      },
+      {
+        "quote": "I’m a mom; I don’t have 20 minutes to meditate. But I always have 5 minutes to listen while I clean up toys.",
+        "name": "Camila",
+        "age": "29"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Affordable like your favorite apps",
+    "subtitle": "Simple subscription logic, powerful engine.",
+    "recommendedLabel": "Recommended",
+    "cancelAnytime": "Cancel anytime.",
+    "tiers": [
+      {
+        "name": "Free Plan",
+        "price": "$0",
+        "features": [
+          "1–2 themes (e.g. Self-Love)",
+          "Limited number of tracks",
+          "Basic streak tracking"
+        ],
+        "cta": "Start Free"
+      },
+      {
+        "name": "Premium Plan",
+        "price": "$9.99/mo",
+        "features": [
+          "All themes unlocked",
+          "New tracks added weekly",
+          "21-day Reset Programs",
+          "Offline listening"
+        ],
+        "cta": "Start Free Trial"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Questions you might be asking",
+    "items": [
+      {
+        "question": "Is this just another affirmation app?",
+        "answer": "It looks familiar on the surface—but under the hood, Affirmetry uses neuroscience and music science to make affirmations stick in memory far more effectively than simple text notifications."
+      },
+      {
+        "question": "Do I need to stop using my current affirmation app?",
+        "answer": "No. Many users keep their favorite app for quotes and use Affirmetry as the audio “installation” layer—turning key phrases into earworm tracks."
+      },
+      {
+        "question": "How long before I notice changes?",
+        "answer": "Some users feel different after a few days; most notice a shift in self-talk within 2–3 weeks of regular listening (5–15 minutes a day)."
+      },
+      {
+        "question": "Is this therapy?",
+        "answer": "No. Affirmetry is not a medical treatment or a substitute for therapy. It’s a self-help and wellness tool designed to support your emotional well-being and mindset."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Ready to turn your favorite affirmations into your daily soundtrack?",
+    "subtitle": "You’re already feeding your mind with “I am” statements. Let’s make sure they echo when you need them most.",
+    "primaryCta": "Start Free Trial",
+    "secondaryCta": "Learn about the science"
+  },
+  "footer": {
+    "brand": "Affirmetry",
+    "tagline": "The bridge between the science of neuroplasticity and the spiritual practice of manifestation.",
+    "companyColumn": "Company",
+    "supportColumn": "Support",
+    "links": {
+      "about": "About Us",
+      "science": "The Science",
+      "careers": "Careers",
+      "help": "Help Center",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "copyright": "© 2024 Affirmetry Inc. All rights reserved.",
+    "disclaimer": "Affirmetry is a wellness tool and does not provide medical diagnosis or treatment."
+  }
+}

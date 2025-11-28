@@ -1,0 +1,240 @@
+{
+  "locale": "pt-BR",
+  "navbar": {
+    "brand": "Affirmetry",
+    "howItWorks": "Como Funciona",
+    "science": "A Ciência",
+    "pricing": "Preços",
+    "startTrial": "Teste Grátis"
+  },
+  "hero": {
+    "badge": "Afirmações Clássicas, Evoluídas",
+    "title": "Suas afirmações, finalmente fixadas na mente.",
+    "highlight": "finalmente fixadas",
+    "description": "A Affirmetry transforma as clássicas declarações de \"Eu sou\" em músicas cientificamente projetadas para grudar na memória, para que suas afirmações favoritas continuem tocando na sua cabeça o dia todo — sem esforço extra.",
+    "primaryCta": "Comece seu teste grátis",
+    "listenCta": "Ouvir amostra",
+    "pauseCta": "Pausar",
+    "nowPlaying": "Tocando Agora",
+    "trackTitle": "Amor Próprio Diário",
+    "trackLine1": "Eu sou suficiente",
+    "trackLine2": "Exatamente como sou",
+    "progressLabel": "Codificando \"Eu sou segura\"...",
+    "floatingPause": "Toque para pausar",
+    "floatingPlay": "Toque para ouvir",
+    "previewMeta": "30s • \"Eu Sou Digna\"",
+    "socialProof": "Amado por mulheres viciadas em afirmações no mundo todo"
+  },
+  "howItWorks": {
+    "sectionLabel": "Como Funciona",
+    "title": "3 passos: da frase à música que fica",
+    "steps": [
+      {
+        "title": "Escolha seu tema",
+        "description": "Escolha temas como Amor Próprio, Dinheiro ou Ansiedade. Similar aos apps clássicos — mas sintonizado com música."
+      },
+      {
+        "title": "Receba suas faixas",
+        "description": "Nosso sistema combina poderosas declarações de \"Eu sou\" com melodias otimizadas para memorização instantânea."
+      },
+      {
+        "title": "Ouça diariamente",
+        "description": "Dê o play enquanto se arruma. A repetição + melodia fortalecem novos caminhos neurais."
+      }
+    ]
+  },
+  "problemSolution": {
+    "problemTitle": "Se suas afirmações somem na hora do almoço, a culpa não é sua.",
+    "problemIntro": "Apps clássicos enviam frases lindas como \"Eu sou digna\". Você se sente melhor por um momento — até o estresse voltar. O problema não é a afirmação. É como seu cérebro a armazena.",
+    "problemCards": [
+      {
+        "title": "Rolar e Esquecer",
+        "description": "Você lê dezenas de afirmações por dia, mas não lembra de nenhuma em um momento de estresse. O texto raramente chega à memória de longo prazo."
+      },
+      {
+        "title": "Genérico e Desconectado",
+        "description": "Frases recicladas ficam bonitas no Instagram, mas não parecem pessoais o suficiente para mudar crenças profundas sobre dinheiro ou amor."
+      },
+      {
+        "title": "Muita Vibe, Sem Ciência",
+        "description": "Sem um mecanismo de neuroplasticidade, \"manifestar\" parece mágica. Você precisa de uma maneira de realmente reprogramar o cérebro."
+      }
+    ],
+    "solutionLabel": "A Solução",
+    "solutionTitle": "Conheça a Affirmetry: O app de afirmações musicais.",
+    "solutionIntro": "A Affirmetry pega as afirmações em que você já acredita — amor próprio, confiança, abundância — e as entrega através de músicas especialmente compostas para se tornarem \"chicletes\" mentais.",
+    "solutionBullets": [
+      {
+        "title": "Conteúdo Clássico, Novo Formato",
+        "description": "Declarações de \"Eu sou\" sobre amor, dinheiro e corpo — agora como faixas contagiantes."
+      },
+      {
+        "title": "O Efeito \"Música Chiclete\"",
+        "description": "Projetado para que as frases ressurgem na sua mente enquanto você toma banho ou caminha."
+      },
+      {
+        "title": "Baseado na ciência, não em misticismo",
+        "description": "Construído sobre neuroplasticidade e Imagens Musicais Involuntárias (INMI)."
+      },
+      {
+        "title": "Prática sem Esforço",
+        "description": "Sem diários, sem longas meditações. É só dar o play."
+      }
+    ],
+    "tagline": "\"Não leia apenas afirmações. Instale-as.\""
+  },
+  "useCases": {
+    "title": "Use a Affirmetry para os objetivos que você mais valoriza",
+    "description": "Mapeamos nossas bibliotecas com base nos temas de afirmação mais populares dos apps existentes.",
+    "items": [
+      {
+        "title": "Amor Próprio e Merecimento",
+        "description": "Silencie a voz do \"não sou boa o bastante\" com faixas que repetem \"Eu sou suficiente\", \"Eu sou digna de amor\"."
+      },
+      {
+        "title": "Ansiedade e Pensamentos Excessivos",
+        "description": "Transforme a ruminação em repetição de frases calmas. De \"E se eu falhar?\" para \"Eu dou conta do que vier\"."
+      },
+      {
+        "title": "Dinheiro e Abundância",
+        "description": "Apoie uma mentalidade financeira mais saudável com linhas melódicas como \"Eu mereço ser bem paga\"."
+      },
+      {
+        "title": "Corpo e Confiança",
+        "description": "Saia dos ciclos de vergonha corporal para afirmações de apreciação, força e autorrespeito."
+      },
+      {
+        "title": "Amor e Relacionamentos",
+        "description": "Mude padrões de apego e confiança com faixas focadas em merecer um amor saudável."
+      },
+      {
+        "title": "Produtividade e Sucesso",
+        "description": "Use antes de grandes projetos para reforçar \"Eu levo as coisas até o fim\", \"Eu crio resultados\"."
+      }
+    ]
+  },
+  "science": {
+    "label": "A Ciência",
+    "title": "Não é mágica. É mecânica.",
+    "description": "Por que cantar suas afirmações funciona melhor do que apenas lê-las. Nossas pesquisas mostram que mensagens musicais ativam mais áreas do cérebro e são lembradas 3x melhor.",
+    "chartTitle": "Taxas de Retenção de Informação",
+    "chartNote": "Representação simplificada da eficácia da aprendizagem multimodal.",
+    "bullets": [
+      {
+        "title": "Motor de Memória Musical (INMI)",
+        "description": "Seu cérebro naturalmente coloca melodias em loop. A Affirmetry aproveita isso: em vez de repassar preocupações, seu cérebro repassa \"Eu sou capaz\"."
+      },
+      {
+        "title": "Codificação Cerebral Completa",
+        "description": "Ler usa o hemisfério esquerdo. Música + Letra engajam o cérebro todo, incluindo centros emocionais e motores, criando memórias duradouras."
+      },
+      {
+        "title": "Vantagem de Fixação Feminina",
+        "description": "Estudos mostram que mulheres experimentam 'músicas chiclete' por mais tempo. Afirmações musicais são biologicamente otimizadas para nosso público."
+      }
+    ],
+    "cta": "Ver o estudo completo",
+    "chartLabels": [
+      "Leitura (Texto)",
+      "Audição (Fala)",
+      "Affirmetry (Música + Emoção)"
+    ]
+  },
+  "testimonials": {
+    "title": "\"Não parecia esforço — mas meu diálogo interno mudou.\"",
+    "items": [
+      {
+        "quote": "Eu costumava abrir meu app de afirmações, ler algumas frases e esquecer. Com a Affirmetry, eu realmente me pego cantarolando 'Eu sou digna' baixinho.",
+        "name": "Sofia",
+        "age": "27"
+      },
+      {
+        "quote": "Eu amo manifestação, mas também gosto de ciência. Ver como funciona a pesquisa sobre memória musical me faz confiar nisso mais do que no conselho 'apenas acredite'.",
+        "name": "Laura",
+        "age": "31"
+      },
+      {
+        "quote": "Toco as faixas sobre dinheiro enquanto me arrumo para o trabalho. Algumas semanas depois, notei que negocio com mais confiança. É como se as letras reescrevessem como falo comigo mesma sobre dinheiro.",
+        "name": "Daniela",
+        "age": "34"
+      },
+      {
+        "quote": "Sou mãe, não tenho 20 minutos para meditar. Mas sempre tenho 5 minutos para ouvir enquanto arrumo os brinquedos.",
+        "name": "Camila",
+        "age": "29"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Acessível como seus apps favoritos",
+    "subtitle": "Lógica de assinatura simples, motor poderoso.",
+    "recommendedLabel": "Recomendado",
+    "cancelAnytime": "Cancele quando quiser.",
+    "tiers": [
+      {
+        "name": "Plano Gratuito",
+        "price": "R$ 0",
+        "features": [
+          "1–2 temas (ex: Amor Próprio)",
+          "Número limitado de faixas",
+          "Rastreamento de sequência (streak)"
+        ],
+        "cta": "Começar Grátis"
+      },
+      {
+        "name": "Plano Premium",
+        "price": "R$ 49,90/mês",
+        "features": [
+          "Todos os temas desbloqueados",
+          "Novas faixas toda semana",
+          "Programas de Reset de 21 dias",
+          "Ouvir offline"
+        ],
+        "cta": "Testar Grátis"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "items": [
+      {
+        "question": "É apenas mais um app de afirmações?",
+        "answer": "Parece familiar na superfície — mas por dentro, a Affirmetry usa neurociência e ciência musical para fazer as afirmações fixarem na memória muito mais efetivamente do que simples notificações de texto."
+      },
+      {
+        "question": "Preciso parar de usar meu app atual?",
+        "answer": "Não. Muitas usuárias mantêm seu app favorito para citações e usam a Affirmetry como a camada de áudio para \"instalação\", transformando frases-chave em faixas que não saem da cabeça."
+      },
+      {
+        "question": "Quanto tempo até notar mudanças?",
+        "answer": "Algumas sentem a diferença em poucos dias; a maioria nota uma mudança no diálogo interno dentro de 2–3 semanas de audição regular (5–15 minutos por dia)."
+      },
+      {
+        "question": "Isso é terapia?",
+        "answer": "Não. A Affirmetry não é um tratamento médico nem substituto para terapia. É uma ferramenta de autoajuda e bem-estar projetada para apoiar seu estado emocional e mentalidade."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Pronta para transformar suas afirmações favoritas na trilha sonora da sua vida?",
+    "subtitle": "Você já alimenta sua mente com declarações de \"Eu sou\". Vamos garantir que elas ecoem quando você mais precisar.",
+    "primaryCta": "Começar Teste Grátis",
+    "secondaryCta": "Aprender sobre a ciência"
+  },
+  "footer": {
+    "brand": "Affirmetry",
+    "tagline": "A ponte entre a ciência da neuroplasticidade e a prática espiritual da manifestação.",
+    "companyColumn": "Empresa",
+    "supportColumn": "Suporte",
+    "links": {
+      "about": "Sobre Nós",
+      "science": "A Ciência",
+      "careers": "Carreiras",
+      "help": "Central de Ajuda",
+      "privacy": "Política de Privacidade",
+      "terms": "Termos de Uso"
+    },
+    "copyright": "© 2024 Affirmetry Inc. Todos os direitos reservados.",
+    "disclaimer": "A Affirmetry é uma ferramenta de bem-estar e não fornece diagnóstico médico ou tratamento."
+  }
+}

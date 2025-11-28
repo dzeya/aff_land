@@ -1,21 +1,30 @@
 import React from 'react';
 import { USE_CASES } from '../constants';
+import { useTranslation } from 'react-i18next';
 
 const UseCases: React.FC = () => {
+  const { t } = useTranslation();
+  const useCaseCopy = t('useCases.items', { returnObjects: true }) as { title: string; description: string }[];
+  const localizedUseCases = USE_CASES.map((useCase, idx) => ({
+    ...useCase,
+    title: useCaseCopy?.[idx]?.title ?? useCase.title,
+    description: useCaseCopy?.[idx]?.description ?? useCase.description
+  }));
+
   return (
     <section className="py-24 px-6 bg-sand-50">
       <div className="container mx-auto">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-3xl md:text-5xl font-serif text-stone-900 mb-6">
-            Use Affirmetry for the goals <br/> you care about most
+            {t('useCases.title')}
           </h2>
           <p className="text-stone-600">
-            We mapped our libraries around the most popular affirmation themes in existing apps.
+            {t('useCases.description')}
           </p>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {USE_CASES.map((useCase) => (
+          {localizedUseCases.map((useCase) => (
             <div key={useCase.id} className="group relative overflow-hidden rounded-3xl h-80 shadow-lg cursor-pointer">
               {/* Background Image */}
               <img 
