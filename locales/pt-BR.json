@@ -10,6 +10,8 @@
   "hero": {
     "badge": "Afirmações Clássicas, Evoluídas",
     "title": "Suas afirmações, finalmente fixadas na mente.",
+    "titleMain": "Suas afirmações,",
+    "titleSuffix": "na mente.",
     "highlight": "finalmente fixadas",
     "description": "A Affirmetry transforma as clássicas declarações de \"Eu sou\" em músicas cientificamente projetadas para grudar na memória, para que suas afirmações favoritas continuem tocando na sua cabeça o dia todo — sem esforço extra.",
     "primaryCta": "Comece seu teste grátis",
