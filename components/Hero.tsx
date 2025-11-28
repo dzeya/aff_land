@@ -63,7 +63,7 @@ const Hero: React.FC = () => {
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-serif text-stone-800 leading-tight mb-6">
             {t('hero.titleMain')}
             <br/>
-            <span className="text-terracotta-500 italic">{t('hero.highlight')}</span> {t('hero.titleSuffix')}
+            <span className="text-terracotta-500 italic">{t('hero.highlight')}</span>{t('hero.titleSuffix')}
           </h1>
           <p className="text-lg md:text-xl text-stone-600 mb-8 max-w-lg mx-auto md:mx-0 font-light">
             {t('hero.description')}
